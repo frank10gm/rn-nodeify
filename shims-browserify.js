@@ -28,5 +28,6 @@ module.exports = {
   "util": "~0.10.1",
   "utp": "0.0.8",
   "react-native-tcp": "^3.2.1",
-  "vm-browserify": "~0.0.1"
+  "vm-browserify": "~0.0.1",
+  "tls-browserify": "0.2.2"
 }

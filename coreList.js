@@ -27,6 +27,5 @@ module.exports = [
   "util",
   "net",
   "vm",
-  // note: tls doesn't have a shim
   "tls"
 ]
