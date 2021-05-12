@@ -30,7 +30,7 @@ module.exports = {
   // "@hawkingnetwork/react-native-tcp": "^3.3.2",
   // "react-native-tcp": "^3.2.1",
   "react-native-tcp-socket": "5.2.0",
-  // "react-native-tls": "0.0.2"
-  // "tls-browserify": "0.2.2"
+  // "react-native-tls": "0.0.2",
+  "tls-browserify": "0.2.2",
   "vm-browserify": "0.0.4"
 }
