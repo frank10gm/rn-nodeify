@@ -27,7 +27,9 @@ module.exports = {
   "tty-browserify": "0.0.0",
   "url": "~0.10.1",
   "util": "~0.10.3",
-  "@hawkingnetwork/react-native-tcp": "^3.3.2",
+  // "@hawkingnetwork/react-native-tcp": "^3.3.2",
+  "react-native-tcp": "^3.2.1",
   "vm-browserify": "0.0.4",
+  "react-native-tls": "0.0.2"
   // "tls-browserify": "0.2.2"
 }

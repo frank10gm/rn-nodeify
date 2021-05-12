@@ -27,6 +27,7 @@ module.exports = {
   "url": "~0.10.1",
   "util": "~0.10.1",
   "utp": "0.0.8",
-  "@hawkingnetwork/react-native-tcp": "^3.3.2",
-  "vm-browserify": "~0.0.1"
+  "react-native-tcp": "^3.2.1",
+  "vm-browserify": "~0.0.1",
+  "react-native-tls": "0.0.2"
 }
