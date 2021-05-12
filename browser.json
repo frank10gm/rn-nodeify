@@ -22,5 +22,5 @@
   "timers": "timers-browserify",
   "tty": "tty-browserify",
   "vm": "vm-browserify",
-  "tls": "react-native-tls"
+  "tls": false
 }

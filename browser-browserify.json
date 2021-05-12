@@ -21,6 +21,5 @@
   "stream": "stream-browserify",
   "timers": "timers-browserify",
   "tty": "tty-browserify",
-  "vm": "vm-browserify",
-  "tls": "react-native-tls"
+  "vm": "vm-browserify"
 }
